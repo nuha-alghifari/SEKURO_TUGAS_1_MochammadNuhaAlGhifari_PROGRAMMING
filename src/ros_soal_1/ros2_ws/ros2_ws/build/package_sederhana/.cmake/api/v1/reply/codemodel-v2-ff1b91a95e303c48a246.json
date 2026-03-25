@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-84ab3809127cdabfb0f0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "package_sederhana",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "package_sederhana_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-package_sederhana_uninstall-c1d8399bdb3192dfe102.json",
+					"name" : "package_sederhana_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-eeb0b9da1967e8ebb348.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bsi_scholarship/SEKURO_TUGAS_1_MochammadNuhaAlGhifari_PROGRAMMING/src/ros_soal_1/ros2_ws/ros2_ws/build/package_sederhana",
+		"source" : "/home/bsi_scholarship/SEKURO_TUGAS_1_MochammadNuhaAlGhifari_PROGRAMMING/src/ros_soal_1/ros2_ws/ros2_ws/src/package_sederhana"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
